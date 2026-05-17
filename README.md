@@ -5,6 +5,7 @@ MahnourAslam [GitHub](https://github.com/MahnourAslam)
 Fatemeh Najafi ([GitHub](https://github.com/Sascha295)
 
 > **Note:** This project was developed as a collaborative effort. Each contributor played a vital role in the design, implementation, and debugging phases.
+
 Overview
 New York City publishes annual air quality measurements across 59 community districts, tracking pollutants like NO₂, PM2.5, and O₃. This project applies a full data mining workflow to that dataset — cleaning and standardizing ~18,800 rows, then using unsupervised learning to discover natural pollution regimes and supervised learning to classify districts into those regimes.
 The goal was to answer: can we automatically identify distinct air quality profiles across NYC, and predict which profile a district belongs to?
