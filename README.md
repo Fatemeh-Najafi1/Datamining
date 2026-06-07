@@ -74,6 +74,19 @@ Raw CSV → Profiling → Cleaning → Feature Engineering → Clustering → Cl
 3. Run all cells in order — each section is labelled with its pipeline stage
 
 ---
+## Requirements
+
+- Python 3.8+
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
+
+Install all dependencies with:
+pip install -r requirements.txt
+
+---
 
 ## Dataset
 
